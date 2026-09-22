@@ -1,0 +1,12 @@
+body {
+    background-color: #5500e7;
+}
+h1 {
+    color: rgb(10, 231, 32);
+    text-align: center;
+}
+p {
+    color: #ff0048;
+    font-size: 18px;
+    font-family: 'Times New Roman', serif;
+}
