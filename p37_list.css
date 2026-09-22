@@ -1,0 +1,6 @@
+ul.disc-list { list-style-type: disc; }
+ul.square-list { list-style-type: square; }
+ol.roman-list { list-style-type: upper-roman; }
+ul.inside-list { list-style-position: inside; }
+ul.image-list { list-style-image: url('bullet.png'); }
+ul.shorthand-list { list-style: square inside; }
